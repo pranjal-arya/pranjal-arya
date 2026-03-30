@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Pranjal Arya
 
 🎓 Student at VIT Bhopal University  
-📚 Branch: (Your Branch)  
-📅 Year: (Your Year)
+📚 Branch: Integrated M.tech AI 
+📅 Year: 1 year
 ---
 ## 💻 About Me  
 I am a passionate tech enthusiast with a strong interest in programming and problem-solving.  
