@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Hi, I'm Pranjal Arya
 
-<!--
-**pranjal-arya/pranjal-arya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Student at VIT Bhopal University  
+📚 Branch: (Your Branch)  
+📅 Year: (Your Year)
+---
+## 💻 About Me  
+I am a passionate tech enthusiast with a strong interest in programming and problem-solving.  
+I have experience in **Python and C++**, and I enjoy building projects that help me apply my knowledge practically.
+---
+## 🚀 Skills & Technologies  
+- 🐍 Python  
+- 💻 C++  
+- 🧠 Problem Solving  
+- 🔧 Basic Project Development  
+---
+## 🛠️ Projects  
+🔹 Built multiple projects using Python  
+🔹 Worked on practical implementations to strengthen coding skills  
+---
+## 🌌 Interests  
+I am highly interested in exploring **Quantum Computing** and understanding how it can shape the future of technology.
+---
+## 🎯 Goals  
+- Improve my development skills  
+- Build real-world impactful projects  
+- Dive deeper into Quantum Computing  
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Connect with Me  
+🔗 LinkedIn: https://www.linkedin.com/in/pranjal-arya-4a523b378
